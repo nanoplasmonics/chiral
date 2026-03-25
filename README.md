@@ -29,7 +29,7 @@ Download the result (`data.zip` or `.hdf5`) and run the script to compute the fi
 * **Polarizability Derivation**:
     * **$\alpha_{ee}$**: Calculated as the ratio $p_x / E_{ext}$.
     * **$\alpha_{em}$**: Calculated as the ratio $p_y / H_{ext}$.
-* **Field Verification**: External field values ($E_{ext}, H_{ext}$) are automatically extracted from the incident field data for normalization.
+* **Field Verification**: External field values ($E_{ext}, H_{ext}$) can be extracted from the field mornitor.
 
 ---
 
